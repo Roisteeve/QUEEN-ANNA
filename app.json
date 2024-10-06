@@ -10,18 +10,18 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "QUEEN_ANNA-QUEEN_ANNA#97tFAIaI#5r9A1jjTftee3CmVeEbzEmcWSkS08p9Fg8ZHIB1kF78"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "24105114159;𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸"
-    },
+      "value": "50937042801;~ ₉₀₀₃"
+    }
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
@@ -39,18 +39,18 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }
     },
     "buildpacks": [
