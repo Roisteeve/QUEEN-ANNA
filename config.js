@@ -25,8 +25,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //----------------------------------------------------------------------------
 
-global.mods = ['24105114159'] 
-global.prems = ['24105114159']
+global.mods = ['50937042801'] 
+global.prems = ['50937042801']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -60,22 +60,22 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳'
+global.botname = '~ ₉₀₀₃'
 global.premium = 'true'
-global.packname = '𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸' 
-global.author = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳' 
+global.packname = '~ ₉₀₀₃' 
+global.author = '~ ₉₀₀₃' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/lawliet.kfx\n' 
-global.dygp = 'https://chat.whatsapp.com/GpsTju4MUAbJmmZhHU8zAR'
-global.fgsc = 'https://github.com/toge012345/QUEEN-ANNA' 
-global.fgyt = 'https://youtube.com/@kenzo3146'
-global.fgpyp = 'https://youtube.com/@kenzo3146'
+global.dygp = 'https://xnxx.com'
+global.fgsc = 'https://xnxx.com' 
+global.fgyt = 'https://xnxx.com'
+global.fgpyp = 'https://xnxx.com'
 global.fglog = 'ANNA.jpg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./Assets/ANNA.jpg')
 
 //Dont Edit Danger Zone⚠️
-global.wait = '*⌛ _Please Wait..._*'
+global.wait = '*⌛ _fon ti tann..._*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
@@ -84,7 +84,7 @@ global.mlc = '📃'
 global.sdc = '🎶'
 global.xmoji = '🔥' 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '5' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
